@@ -203,28 +203,21 @@ Answer: [Generated from retrieved context]
 
 ### PDF Upload and Processing
 
-![PDF Upload](images/img1.png)
-
-### Document Chunking and Indexing
-
-![Chunking](images/img2.png)
-
-### Vector Database Creation
-
-![Vector Database](images/img3.png)
+![PDF Upload](images/rag1.jpg)
 
 ### Query 1: Book Name
-
-![Book Name Query](images/img4.png)
+![Bookname](images/rag2.jpg)
 
 ### Query 2: Total Chapters
-
-![Chapter Query](images/img5.png)
+![chapters](images/rag3.jpg)
 
 ### Query 3: Characters Mentioned
+![characters](images/rag4.jpg)
 
-![Characters Query](images/img6.png)
+![characters](images/rag5.jpg)
 
-### Query 4: Story Summary
+### Query 4: Story Summary and end
 
-![Story Query](images/img7.png)
+![storysummary](images/rag6.jpg)
+
+![end](images/rag7.jpg)
